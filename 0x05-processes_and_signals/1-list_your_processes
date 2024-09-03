@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # List all users processes currently running on the system
 
-ps -ef --forest
+ps -euf --forest
