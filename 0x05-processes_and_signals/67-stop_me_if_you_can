@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# same as 6-stop_me_if_you_can but with a different process name
+
+pkill -f 7-highlander
